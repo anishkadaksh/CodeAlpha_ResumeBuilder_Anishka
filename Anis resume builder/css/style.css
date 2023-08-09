@@ -1,0 +1,38 @@
+
+body{
+    background: black;
+    color: whitesmoke;
+}
+
+h3{
+    text-transform: uppercase;
+}
+
+span{
+    color: red;
+}
+
+
+
+.skls{
+    list-style: none;
+}
+
+.background{
+    background-color: whitesmoke;
+    color: black;
+}
+
+.background2{
+    background-color: lightblue;
+    color: black;
+}
+
+#resume-temp {
+    display: none;
+}
+
+#resume-forme {
+    display: block;
+}
+    
